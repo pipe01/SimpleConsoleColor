@@ -4,11 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>pipe01</Authors>
     <PackageTags>console, color</PackageTags>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <RepositoryUrl>https://github.com/pipe01/SimpleConsoleColor</RepositoryUrl>
     <PackageProjectUrl>https://github.com/pipe01/SimpleConsoleColor</PackageProjectUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A simple library for setting console colors when writing in a stack-based manner</Description>
   </PropertyGroup>
 
   <ItemGroup>
