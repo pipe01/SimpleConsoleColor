@@ -8,6 +8,7 @@
     <RepositoryUrl>https://github.com/pipe01/SimpleConsoleColor</RepositoryUrl>
     <PackageProjectUrl>https://github.com/pipe01/SimpleConsoleColor</PackageProjectUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
