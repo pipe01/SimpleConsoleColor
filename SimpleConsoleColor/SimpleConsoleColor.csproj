@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>pipe01</Authors>
+    <PackageTags>console, color</PackageTags>
+  </PropertyGroup>
+
+</Project>
